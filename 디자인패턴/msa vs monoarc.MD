@@ -12,7 +12,7 @@
 
 여기서 우리가쓰는 SpringBoot 3 Layer로 확장해서본다면..
 
-> SpringBoot 3 Layer에 관한 부분은 여기를 참조하길 바란다 [스프링부트의 주요 3 계층]()
+> SpringBoot 3 Layer에 관한 부분은 여기를 참조하길 바란다 [스프링부트의 주요 3 계층](https://github.com/tekies09/CS/blob/main/SpringBoot/spring3layer.MD)
 
 
 ![모노아키텍처2](https://github.com/tekies09/CS/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/images/monoarc2.PNG?raw=true)
