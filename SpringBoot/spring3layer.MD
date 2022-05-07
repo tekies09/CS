@@ -28,7 +28,7 @@ DB를 조작하는 부분이 여기 CRUD 를 담당한다.
 
 ORM(JPA), SQL-Mapper(MyBatis)...  를 사용하는 계층 .. 
 
-> ORM ?? SQL-Mapper?? 이게뭔차이죠?? [ORM과 SQLMapper비교하기]()
+> ORM ?? SQL-Mapper?? 이게뭔차이죠?? [ORM과 SQLMapper비교하기](https://github.com/tekies09/CS/blob/main/SpringBoot/orm%20vs%20sqlmapper.MD)
 
 @Repository 어노테이션을 사용한다.
 
