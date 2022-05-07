@@ -4,7 +4,7 @@
 
 크게 그림으로 정리해보자!
 
-![](https://velog.velcdn.com/images/tekies09/post/3ec3b864-03ff-497f-adc1-cd3f483e3e8e/image.png)
+![](https://github.com/tekies09/CS/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/images/mvc,mvp,mvvm.PNG?raw=true)
 
 
 그냥 이런 차이가 있구나정도?..
@@ -29,7 +29,7 @@ View는 말그대로 뷰!
 ### MVC 구조
 
 
-![](https://velog.velcdn.com/images/tekies09/post/87061305-758a-4139-84a0-6c804cacacb7/image.png)
+![](https://github.com/tekies09/CS/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/images/mvc.png?raw=true)
 
 
 짜잔! 숫자가 늘었다.. 그이유는 로직과 함께 설명 
@@ -61,7 +61,7 @@ View는 말그대로 뷰!
 
 ### MVP 구조
 
-![](https://velog.velcdn.com/images/tekies09/post/af2087c0-7fdb-49f2-a048-55e31c27c1ab/image.png)
+![](https://github.com/tekies09/CS/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/images/mvp.png?raw=true)
 
 
 
@@ -89,7 +89,7 @@ Presenter의 역할은 view에서 입력받아 model 가공해서 다시 view로
 
 
 ### MVVM 
-![](https://velog.velcdn.com/images/tekies09/post/d05fb8dc-cda7-4805-b329-636914c8478d/image.png)
+![](https://github.com/tekies09/CS/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/images/mvvm.png?raw=true)
 
 
 가운데 중개인기 VIEWMODEL로 바꼇다! 
